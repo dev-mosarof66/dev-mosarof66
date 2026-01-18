@@ -19,7 +19,7 @@
 - Figma
 
 ## 📈 GitHub Stats
-[stats go here]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
 - LinkedIn: [link]
