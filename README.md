@@ -2,7 +2,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Mosarof%20Hossain%20|%20Aspiring%20SW%20Engineer&section=header&reversal=false&textBg=false&fontSize=40&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descSize=25)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FULL+STACK+DEVELOPER;MERN+STACK+DEVELOPER;MOBILE+APP+DEVELOPER;BUILDING+MODERN+AND+DYNAMIC+APP)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FULL+STACK+DEVELOPER;MERN+STACK+DEVELOPER;MOBILE+APP+DEVELOPER;BUILDING+MODERN+AND+DYNAMIC+APP)](https://git.io/typing-svg" />
+</p>
 
 ---
 
