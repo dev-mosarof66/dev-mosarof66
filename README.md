@@ -1,5 +1,5 @@
 <!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:1E90FF&height=200&section=header&text=Your%20Name%20%7C%20Full%20Stack%20Web%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:1E90FF&height=200&section=header&text=Mosarof%20Hossain%20%7C%20Full%20Stack%20Web%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <!-- Typing Animation -->
 <p align="center">
