@@ -72,9 +72,9 @@
 
 ## 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A74DA?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A74DA?style=for-the-badge&logo=vercel&logoColor=white)](https://mosarof-hossain.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-0A74DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-0A74DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-mosarof066)
 
 ---
 
