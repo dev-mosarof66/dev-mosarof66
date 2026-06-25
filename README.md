@@ -1,82 +1,82 @@
 <!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Mosarof%20Hossain%20|%20Aspiring%20SW%20Engineer&section=header&reversal=false&textBg=false&fontSize=40&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descSize=25)
-
-<!-- Typing Animation -->
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=2,12,20&text=Mosarof%20Hossain&section=header&fontSize=52&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descSize=22&descAlignY=62)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FULL+STACK+DEVELOPER;MERN+STACK+DEVELOPER;MOBILE+APP+DEVELOPER;BUILDING+MODERN+AND+DYNAMIC+APP)](https://git.io/typing-svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+scalable+digital+products;CSE+Student+%40+RUET" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **CSE Student @ RUET**  
-💻 **Full Stack Web Developer**  
-🚀 Passionate about building **scalable, clean, and user-focused web applications**  
-🌱 Currently exploring **Next.js, modern UI/UX patterns, and backend integration**  
-✨ Love turning ideas into real-world digital products
+🎓 **CSE Student @ RUET**
+💼 **Full Stack Developer @ Kaizenext AI**
+🚀 Building **modern, scalable web applications** for businesses and startups
+🌱 Currently exploring **System Design & Cloud Architecture**
+📧 **190041237tr@gmail.com**
 
 ---
 
-## ⚡ Skills & Tools
+## 🛠 Tech Stack
 
-### 🧠 Languages & Fundamentals
-![C](https://img.shields.io/badge/C-0A74DA?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0A74DA?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-4682B4?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-0A74DA?style=for-the-badge)
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
-
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-0A74DA?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-0A74DA?style=for-the-badge&logo=react&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E90FF?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🛠 Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-0A74DA?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-1E90FF?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A74DA?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0A74DA?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🎨 Design & UI
-![Figma](https://img.shields.io/badge/Figma-0A74DA?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-1E90FF?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 📌 Highlights
-
-✔ Built **responsive & modern full-stack projects**  
-✔ Strong focus on **clean code & performance**  
-✔ Experience with **real-world UI/UX design**  
-✔ Actively improving **DSA & problem-solving skills**
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-mosarof66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mosarof66&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-mosarof66&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A74DA?style=for-the-badge&logo=vercel&logoColor=white)](https://mosarof-hossain.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-0A74DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-mosarof066)
+<p align="center">
+  <a href="https://mosarof-hossain.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dev-mosarof66">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:190041237tr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=100:1E90FF,0:0A74DA&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=110&section=footer)
