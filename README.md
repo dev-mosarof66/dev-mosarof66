@@ -9,8 +9,8 @@
 
 ## 👨‍💻 About Me
 
+💼 **Full Stack Developer @ Kaizenext AI** \n
 🎓 **CSE Student @ RUET**
-💼 **Full Stack Developer @ Kaizenext AI**
 🚀 Building **modern, scalable web applications** for businesses and startups
 🌱 Currently exploring **System Design & Cloud Architecture**
 📧 **190041237tr@gmail.com**
